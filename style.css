@@ -1,0 +1,48 @@
+.color{
+    color: #3F87F5;
+}
+.color-2{
+    color: black;
+}
+.color-3{
+    background-color: #f7e6f0;
+    width: 80%;
+}
+.bg{
+    background-color: #3F87F5;
+    margin-top: -100px;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+.margin{
+    margin:40px 0 130px 0;
+}
+.hot{
+    margin-left: 160px;
+    margin-top: -40px;
+    width: 80px;
+    height: 80px;
+}
+ul li{
+    color: black;
+    font-weight: 500;
+}
+.img-1{
+    background-image: url("./images/banner.png");
+    height: 88vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+}
+.img-2{
+    background-image: url("./images/wedding.png");
+    height: 88vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-3{
+    background-image: url("./images/people.png");
+    height: 88vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
